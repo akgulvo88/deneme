@@ -1,0 +1,106 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: #AEFEFF;
+}
+.clouds {
+ display:block;
+ width: 200px;
+ height: 200px;
+}
+#cloud-1 {
+    position: absolute;
+    left: 650px;
+    top: 80px;
+}
+#cloud-2 {
+    position:absolute;
+    left: 1000px;
+    top: 70px;
+}
+#welcome-text-div {
+    width:70%;
+    height: 900px;
+    margin: 300px auto 0px auto;
+}
+.welcome-text {
+    text-align: center;
+    font-size: 40px;
+    font-family:'Pacifico', cursive;
+}
+#mountain {
+    display: block;
+    width: 500px;
+    height: 600px;
+    margin: 50px auto 0px auto;
+    
+}
+hr {
+    margin: 50px auto;
+    width: 100px;
+    border-style: dotted;
+    border-width: 5px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-color: gray;
+    
+    
+}
+#middle-container {
+    background-color: #eee;
+    height: 700px;
+    padding: 20px;
+}
+#computer-img {
+    border-radius: 50%;
+    margin-right: 20px;
+    float: left;
+    background-color: #eee;
+}
+.skills-and-hobbies-divs {
+    width: 600px;
+    height: 200px;
+    margin: 50px auto 20px auto;
+    line-height: 30px;
+    background-color: #eee;
+}
+#chilli-img {
+    float: right;
+    background-color: #eee;
+}
+h2 {
+    text-align: center;
+    background-color: #eee;
+}
+.skill-and-hobbies-paragraphs {
+    padding: 20px 0px 0px 0px;
+    background-color: #eee;
+}
+#second-hr {
+    margin: 20px auto;
+}
+#footer {
+    text-align: center;
+    padding: 0px 0px 100px 0px;
+    
+}
+#footer h1 {
+    margin: 20px;
+    color:#006d6e;
+}
+a {
+    margin-right: 10px;
+    text-decoration: none;
+    color:#006d6e;
+}
+a:hover {
+    text-decoration: overline;
+}
+iframe {
+    float: left;
+    background-color: #eee;
+}
+#middle-container h2 {
+color:#006d6e;
+}
